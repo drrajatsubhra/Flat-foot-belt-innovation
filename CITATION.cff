@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Pediatric Flat Foot & Leg Pain — Non-surgical Foot Belt Innovation"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: Mukhopadhyay
+    given-names: Rajatsubhra
+    affiliation: Child Health Care Arambag; Sri Yoga Center Trust - Kunarpur
+    email: dr_rajatsubhra@yahoo.com
+    orcid: "<add-orcid-if-available>"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.xxxxxxx
+repository-code: "https://github.com/<your-username>/flat-foot-belt-innovation"
+license: MIT
+keywords:
+  - pediatrics
+  - flat-foot
+  - pes-planus
+  - brace
+  - physiotherapy
+  - innovation
+date-released: 2025-08-15
